@@ -1,8 +1,8 @@
 # Loan Approval Machine Learning Algorithms
 - Final capstone project for Machine Learning and AI
 - 2 models for classification
-  - Logistic Regression
-  - Random Forest Classifier
+  - Logistic Regression - Implemented by Brayden Tanji
+  - Random Forest Classifier - Implemented by Andrew Benavides
 - Code was cleaned using pre-processing code
 
  ## Resources
