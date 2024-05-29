@@ -1,4 +1,4 @@
-# Loan Approval Machine Learning Algorithm
+# Loan Approval Machine Learning Algorithms
 - Final capstone project for Machine Learning and AI
 - 2 models for classification
   - Logistic Regression
